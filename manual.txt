@@ -8,4 +8,4 @@ rc1
 yyy
 added on 9/4
 create a new branch is easy
-Create a new branch is quick & smple.
+create a new branch is quick and simple
